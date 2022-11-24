@@ -1,18 +1,21 @@
 # Spiders-Bingo
 
 This is a Discord bot written in node.
+<br>
 Includes:
-*Bingo
-*Banker (Wallet deposits/withdrawals)
-*tipping
-*faucet
-
-each feature can be enabled/dissabled
-
-there are seperate config.json files for:
-Bingo (the main app)
-Banker (to check for deposits)
-Wallet (crypto wallet stuff)
-Database (all parts use mysql)
-
+<br>*Bingo
+<br>*Banker (Wallet deposits/withdrawals)
+<br>*tipping
+<br>*faucet
+<br>
+<br>
+Each feature can be enabled/dissabled
+<br>
+<br>
+There are seperate config.json files for:
+<br>Bingo (the main app)
+<br>Banker (to check for deposits)
+<br>Wallet (crypto wallet stuff)
+<br>Database (all parts use mysql)
+<br>
 
