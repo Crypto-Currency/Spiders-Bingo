@@ -1,0 +1,6 @@
+{
+  "ticker": "YOURCOINTICKER",
+  "port": 25674,
+  "user": "wallet user name",
+  "password": "wallet user password"
+}

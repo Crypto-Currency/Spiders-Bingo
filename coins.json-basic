@@ -1,0 +1,12 @@
+{
+  "LCPticker": "LCP",
+  "LCPport": 44350,
+  "LCPuser": "user name",
+  "LCPpassword": "user password",
+
+  "BCFticker": "BCF",
+  "BCFport": 25672,
+  "BCFuser": "user name",
+  "BCFpassword": "user password"
+
+}
