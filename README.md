@@ -103,4 +103,6 @@ then it checks the database and compairs to see if there are any new deposits.
 |  8  | Fluttercoin    | FLT    | 339244122030211072 | 728278278468796546 |  
 
 
-<br>
+```
+INSERT INTO BANK(name,ticker,guildid,channel) VALUES (YourCoin,TICKER,discord server ID,bot channel ID);
+```
