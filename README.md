@@ -87,8 +87,11 @@ this needs to be run as a cronjob<br>
 */4 * * * * cd /home/yourname/path to Bingo && /usr/local/bin/node dep-update.js all >> banker.log 2>&1
 ```
 this will run the banker app every 4 minutes.
+
 it checks the last 100 wallet transactions to see if there are any deposits.
+
 then it checks the database and compairs to see if there are any new deposits.
+
 
 
 ### example of coins table (in BANK database)
@@ -106,3 +109,4 @@ then it checks the database and compairs to see if there are any new deposits.
 ```
 INSERT INTO BANK(name,ticker,guildid,channel) VALUES (YourCoin,TICKER,discord server ID,bot channel ID);
 ```
+
