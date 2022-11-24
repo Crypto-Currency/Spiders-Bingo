@@ -94,7 +94,7 @@ then it checks the database and compairs to see if there are any new deposits.
 ### example of coins table (in BANK database)
 +----+----------------+--------+--------------------+--------------------+  
 | ID | name           | ticker | guild              | channel            |  
-+----+----------------+--------+--------------------+--------------------+  
+|----|:--------------:|:------:|:------------------:|:------------------:|  
 |  1 | SpiderByte     | SPB    | 373618451127992342 | 497999755574640677 |  
 |  2 | BitcoinFast    | BCF    | 373231860958101514 | 500353242182451211 |  
 |  5 | Emerald Crypto | EMD    | 324314178883944449 | 503793962314760197 |  
