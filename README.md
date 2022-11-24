@@ -22,7 +22,6 @@ edit the config file as needed.
   "sqlpass": "db user password",
 ```
 ### never post passwords or discord bot tokens!!!
-<br>
 ```
   "sqldatabase": "BANK",
 ```
